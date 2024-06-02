@@ -1,0 +1,15 @@
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfo.cs
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.sourcelink.json
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.exe
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.deps.json
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.runtimeconfig.json
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.dll
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.pdb
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.dll
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\obj\Debug\net8.0\refint\TicketPriceCalculator.dll
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.pdb
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.genruntimeconfig.cache
+D:\Projects\Developer\school\assignments\dcit318-assignment1-10964242\TicketPriceCalculator\obj\Debug\net8.0\ref\TicketPriceCalculator.dll
